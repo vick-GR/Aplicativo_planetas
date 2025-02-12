@@ -1,16 +1,7 @@
-# myapp
+APLICATIVO PLANETAS
 
-A new Flutter project.
+Talento Tech 12 - Desenvolvimento de Aplicativos Móveis
+Atividade 1 - Criar um aplicativo para móvel 
 
-## Getting Started
+Desenvolver um programa para Android, utilizando o framework Flutter, que implemente um sistema CRUD (Create, Read, Update, Delete) para gerenciar informações de planetas. O sistema deve armazenar os dados localmente utilizando o banco de dados SQLite, oferecendo uma interface amigável para adicionar, visualizar, editar e excluir planetas.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
