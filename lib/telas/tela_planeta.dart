@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import '../controles/controle_planeta.dart';
 import '../modelos/planeta.dart';
 
